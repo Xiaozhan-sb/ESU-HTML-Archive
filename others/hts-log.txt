@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Nov 2019 20:29:04 at https://esu.wiki/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://esu.wiki/ -O1 "D:\esuwiki\esuwiki" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:04	Warning: 	Cache: damaged cache, trying to repair
+20:29:04	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+20:29:04	Warning: 	Cache: error trying to open the cache
+21:18:09	Error: 	"Not Found" (404) at link https://esu.wiki/Esu:灵堂 (from https://esu.wiki/)
+22:23:32	Error: 	"Not Found" (404) at link https://esu.wiki/Special:最近更改 (from https://esu.wiki/)
+22:23:32	Error: 	"Not Found" (404) at link https://esu.wiki/Special:最近评论 (from https://esu.wiki/)
+22:53:34	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/Special:链入页面/恶俗维基:首页 (from https://esu.wiki/)
+22:53:34	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/Special:链出更改/恶俗维基:首页 (from https://esu.wiki/)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-hans (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-hant (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-cn (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-hk (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-mo (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-my (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-sg (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&variant=zh-tw (from https://esu.wiki/Special:统计)
+23:03:28	Error: 	"Bad Request" (400) at link https://esu.wiki/Special:错误标题 (from https://esu.wiki/Special:统计)
+23:03:31	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&printable=yes (from https://esu.wiki/Special:统计)
+23:03:31	Error: 	"Bad Request" (400) at link https://esu.wiki/index.php?title=Special:%E9%94%99%E8%AF%AF%E6%A0%87%E9%A2%98&mobileaction=toggle_view_mobile (from https://esu.wiki/Special:统计)
+23:03:50	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/Special:用户贡献/Sysadmin (from https://esu.wiki/File:Esu_icon_2018.png)
+23:09:57	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/恶俗维基:透明度报告/2019年4月1日 (from https://esu.wiki/恶俗维基:恶俗维基不是什么)
+09:01:02	Error: 	"Service Unavailable" (503) at link https://esu.wiki/index.php?title=%E9%95%BF%E5%AE%89THO%E7%A7%98%E5%B0%81AV%E4%BA%8B%E4%BB%B6&action=info (from https://esu.wiki/长安THO秘封AV事件)
+09:25:54	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/《对于本次翻译讨论_专门赞同/驳斥几个观点》 (from https://esu.wiki/赵旭升)
+16:16:38	Error: 	"Service Temporarily Unavailable" (503) at link https://esu.wiki/File:普宁迫害人.jpg (from https://esu.wiki/陈乾)
+18:40:29	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/Special:搜索重复文件/Dead.png (from https://esu.wiki/File:Dead.png)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-hans (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-hant (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-cn (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-hk (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-mo (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-my (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-sg (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:41:29	Error: 	"Not Found" (404) at link https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&variant=zh-tw (from https://esu.wiki/index.php?title=Esu:%E7%81%B5%E5%A0%82&action=edit&redlink=1)
+18:43:51	Error: 	"Service Unavailable" (503) at link https://esu.wiki/index.php?title=File:TFBOYS.jpg&action=info (from https://esu.wiki/File:TFBOYS.jpg)
+20:54:41	Error: 	"Service Temporarily Unavailable" (503) at link https://esu.wiki/File:徐逸2.jpg (from https://esu.wiki/徐逸)
+00:08:26	Error: 	"Not Found" (404) at link https://esu.wiki/File:碴象问候.png (from https://esu.wiki/刘泽)
+13:07:49	Error: 	Exit requested by shell or user
+13:07:51	Warning: 	File not added due to mirror cancel: https://esu.wiki/index.php?title=File:Mc8.jpg&variant=zh-mo
+13:07:56	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/Special:%E9%87%8D%E5%AE%9A%E5%90%91/file/%E5%8D%97%E9%98%B3%E4%BC%A0%E6%9F%93%E7%97%85 (from https://esu.wiki/张祥如)
+13:08:02	Error: 	"Error when decompressing" (-1) at link https://esu.wiki/《玩F,FK/另一个,心R心B安N中N心NFN,NFNN,NNNN》 (from https://esu.wiki/侯长汐)
+13:08:03	Error: 	Exit requested by shell or user
+13:08:03	Error: 	"" (-1) at link https://esu.wiki/我名五个字 (from https://esu.wiki/马玉东)
+13:08:03	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 days, 16 hours 38 minutes 59 seconds : 44759 links scanned, 11832 files written (415480222 bytes overall) [233975899 bytes received at 1598 bytes/sec], 283803245 bytes transferred using HTTP compression in 9260 files, ratio 30%
+(41 errors, 4 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
